@@ -5,11 +5,10 @@
 -->
 I'm Matthew Lyon, A Full Stack Web Developer Currently In High School.
 
-- 🔭 I’m currently working on Rebuilding My Linux Website Server (Hard Drive Failure)
-- 🌱 I’m currently learning ... React => Babel / Webpack
-- 👯 I’m looking to collaborate on Anything Fun
-- 🤔 I’m looking for help with Swift Cocoa Framework
+- 🔭 I’m currently working on Arch Linux btw
+- 🌱 I’m currently learning C and xorg applications
+- 👯 I’m looking to collaborate on Discord bots, Your Python School Homework 
+- 🤔 I’m looking for help with Swift
 - 💬 Ask me about Linux
 - 📫 How to reach me: Email, Discord (Matthew Is Here#4064), Through My Website
-- 😄 Pronouns: I'm Male
 - ⚡ Fun fact: I hate Windows
