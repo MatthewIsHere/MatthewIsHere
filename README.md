@@ -3,7 +3,7 @@
 <!--
 **MatthewIsHere/MatthewIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Matthew Lyon, A Full Stack Web Developer Currently In High School.
+I'm Matthew Lyon, A Backend Developer Currently In High School.
 
 - 🔭 I’m currently working on homebridge plugins so i can get rid of my amazon spy boxes
 - 🌱 I’m currently learning C and linux kernel modules
