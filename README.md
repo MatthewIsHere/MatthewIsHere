@@ -5,8 +5,8 @@
 -->
 I'm Matthew Lyon, A Full Stack Web Developer Currently In High School.
 
-- 🔭 I’m currently working on Arch Linux btw
-- 🌱 I’m currently learning C and xorg applications
+- 🔭 I’m currently working on homebridge plugins so i can get rid of my amazon spy boxes
+- 🌱 I’m currently learning C and linux kernel modules
 - 👯 I’m looking to collaborate on Discord bots, Your Python School Homework 
 - 🤔 I’m looking for help with Swift
 - 💬 Ask me about Linux
