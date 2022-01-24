@@ -3,7 +3,7 @@
 <!--
 **MatthewIsHere/MatthewIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Matthew Lyon, A Backend Developer Currently In High School.
+I'm Matthew Lyon, A Full Stack Developer Currently In High School.
 
 - 🔭 I’m currently working on Corporate Projects, breaking school computers, AP Computer Science (Easiest class ever), and about 297 other things on my todo list.
 - 🌱 I’m currently learning Next.js/React & Rust
